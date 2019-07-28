@@ -1,13 +1,11 @@
-<div class="postman-run-button"
-data-postman-action="collection/import"
-data-postman-var-1="5f89b7a137940d2e13dc"
-data-postman-param="env%5BKroozeTest%5D=W10="></div>
-<script type="text/javascript">
-  (function (p,o,s,t,m,a,n) {
-    !p[s] && (p[s] = function () { (p[t] || (p[t] = [])).push(arguments); });
-    !o.getElementById(s+t) && o.getElementsByTagName("head")[0].appendChild((
-      (n = o.createElement("script")),
-      (n.id = s+t), (n.async = 1), (n.src = m), n
-    ));
-  }(window, document, "_pm", "PostmanRunObject", "https://run.pstmn.io/button.js"));
-</script>
+# Apresentação
+
+Documentação para utilização da Api – Krooze.
+
+# Autenticação
+
+Não é preciso utilizar autenticação para fazer requisições a esta API.
+
+A documentação completa está no link a seguir:
+
+https://documenter.getpostman.com/view/8274169/SVYkvLpE?version=latest
